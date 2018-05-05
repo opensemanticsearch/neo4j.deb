@@ -1,0 +1,5 @@
+#!/bin/sh
+
+service neo4j stop
+
+exit 0

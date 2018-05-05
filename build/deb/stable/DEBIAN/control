@@ -1,0 +1,11 @@
+Package: neo4j
+Version: 3.3.5
+Section: misc
+Priority: optional
+Architecture: all
+Depends: daemon(>=0),default-jre-headless(>=0)
+Installed-Size: 100
+Maintainer: Markus Mandalka <debian@mandalka.name>
+Homepage: https://opensemanticsearch.org
+Description: Neo4j
+ Graph database Neo4j preconfigured for Open Semantic ETL and Open Semantic Search.
